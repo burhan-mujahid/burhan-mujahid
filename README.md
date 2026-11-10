@@ -1,67 +1,66 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Muhammad Burhan Mujahid. Systems Architect for founders and business leaders. AI agents, automation and custom software that hold up.">
-</picture>
+<div align="center">
 
-[Book a 30-minute call](https://calendar.app.google/8BSdL6LsNgXprmGZ6) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/burhan-mujahid552/) &nbsp;·&nbsp; [Portfolio](https://burhan-mujahid.github.io/Profile/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Muhammad+Burhan+Mujahid;Systems+Architect+%C2%B7+Founder%2C+Conductor;I+build+AI+agents%2C+automation+%26+software;...and+fix+the+systems+slowing+you+down" alt="Typing intro" />
 
-I work with founders, executives and business leaders who own an outcome. I build AI agents, automations and custom software, and I fix the ones that aren't working. I own the work end to end: I scope it honestly, design it, ship it, and hand it over so your team can run it without me.
+**Systems Architect for founders, executives & business leaders** · 6+ years building software and running operations · Lahore, Pakistan · Remote worldwide
 
-Six years of building software and running operations. UET Lahore.
+<a href="https://www.linkedin.com/in/burhan-mujahid552/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://calendar.app.google/8BSdL6LsNgXprmGZ6"><img src="https://img.shields.io/badge/Book_a_free_30--min_call-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
+<a href="https://burhan-mujahid.github.io/Profile/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
-## What I do
-
-**AI agents** that work inside the tools you already use, like Shopify, Amazon, CRMs, Slack and Notion, with clear limits on what they can do.<br>
-**Automations** between the systems your team currently copies data across.<br>
-**MVPs, SaaS products and internal tools**, from validation to launch, including mobile apps and backends built for real traffic.<br>
-**Straight answers** before budget is committed: build, buy, or stop.
-
-## Selected work
-
-**E-commerce seller.** A custom MCP server that puts Amazon, Google Ads and Shopify behind one chat. Sales data, ad changes and inventory checks happen without a dashboard.
-
-**OpsPilot, field service platform.** Architecture for mobile, web and backend, sized for tens of thousands of concurrent users. AI job summaries cut reporting time by about 50%, and scheduling efficiency rose 30–35%.
-
-**Live consumer app.** OTP login across WordPress and React Native, shipped in one week with no impact on existing users.
-
-## Open source
-
-**[precedent](https://github.com/burhan-mujahid/precedent)** · Python<br>
-Keeps AI agents from improvising policy. Rules are learned from your team's WhatsApp or Slack threads, and a person approves each one. Before every action, deterministic checks outside the model return act, needs approval, or escalate, and it fails closed. Version 0.2 also halts a run already in progress if a step goes beyond what was approved.<br>
-[Website](https://burhan-mujahid.github.io/precedent/) · [PyPI](https://pypi.org/project/precedent-ai/) · [DOI](https://doi.org/10.5281/zenodo.24087058) · MCP, LangGraph, CLI
-
-**[portparity](https://github.com/burhan-mujahid/portparity)** · Python<br>
-Shows that ported code behaves like the original. It runs legacy and replacement code on the same inputs, treats the original's output as correct, and reduces every mismatch to a minimal case. Ships as an agent skill for Claude Code and Codex, with no dependencies.
-
-**[canon](https://github.com/burhan-mujahid/canon)** · JavaScript<br>
-The papers that built computing, rebuilt so you can run them. Turing, Shannon, Kálmán, Diffie–Hellman and PageRank, each as about a hundred readable lines, an interactive page, and tests that check the paper's own results.<br>
-[Live site](https://burhan-mujahid.github.io/canon/)
-
-**[inverse-notebook](https://github.com/burhan-mujahid/inverse-notebook)** · JavaScript<br>
-Set the result you want and see what has to change. An interactive notebook for working backward from a target under explicit constraints, built on a small convex optimization engine with no dependencies.
-
-<details>
-<summary>Earlier projects</summary>
-<br>
-
-[buddy_open_ai_chat_bot](https://github.com/burhan-mujahid/buddy_open_ai_chat_bot): an OpenAI chatbot app with voice input, spoken replies and image generation. Flutter.<br>
-[nearby_sync_utility](https://github.com/burhan-mujahid/nearby_sync_utility): a Flutter plugin for peer-to-peer discovery and messaging on Android and iOS, in development.<br>
-[memorygrid](https://github.com/burhan-mujahid/memorygrid): a tile-matching memory game. Flutter.<br>
-[Covid-19-Tracker](https://github.com/burhan-mujahid/Covid-19-Tracker): global and per-country COVID-19 statistics. Flutter.
-
-</details>
-
-## Currently building
-
-**Conductor**: AI actions across Linear, Slack, Notion and Gmail, with sign-off required before anything irreversible happens.
-
-## Tools
-
-**Languages and frameworks:** Python, JavaScript, TypeScript, React, Node.js, Flutter, Dart, Firebase, WordPress<br>
-**AI and automation:** MCP, Claude, LangGraph, Ollama, n8n, Make<br>
-**Platforms:** Shopify, Amazon, Google Ads, Slack, Notion, Linear
+</div>
 
 ---
 
-Something to build, a decision to make, or something not working? [Book a 30-minute call](https://calendar.app.google/8BSdL6LsNgXprmGZ6). You'll leave with a clear plan either way.
+### About me
+
+I work with founders, executives and business leaders who own an outcome. I build **AI agents, automations and custom software**, and I fix the ones that aren't working. I own the work end to end: I scope it honestly, design it, ship it, and hand it over so your team can run it without me.
+
+- **AI agents** that work inside your real tools: Shopify, Amazon, CRMs, Slack, Notion
+- **Automations** that connect the tools your team copies data between
+- **MVPs, SaaS products and internal tools**, from validation to launch
+- **Mobile apps and backends** built for real traffic
+- **Straight answers** before budget is committed: build, buy or stop
+
+Clients in the US, UK, Europe and Australia · UET Lahore alum
+
+### Recent work
+
+- **E-commerce seller:** built a custom **MCP server** that puts Amazon, Google Ads and Shopify behind one chat. Sales data, ad changes and inventory checks happen without a dashboard.
+- **OpsPilot (field service platform):** architected mobile, web and backend for tens of thousands of concurrent users. AI job summaries cut reporting time by about **50%**, and scheduling efficiency rose **30–35%**.
+- **Live app OTP login:** shipped across WordPress and React Native in **one week**, with no impact on existing users.
+
+### Open source
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**precedent**](https://github.com/burhan-mujahid/precedent) · [site](https://burhan-mujahid.github.io/precedent/) | Stops AI agents from improvising policy. Rules are mined from your team's WhatsApp or Slack threads and approved by a person. Before every action, five checks outside the model return **ACT**, **NEEDS APPROVAL** or **ESCALATE**, and it fails closed. Works via MCP, LangGraph, Python or a CLI. | Python |
+| [**portparity**](https://github.com/burhan-mujahid/portparity) | Proves a port behaves like the original. It runs legacy and new code on the same inputs and shrinks mismatches to minimal cases. Ships as an agent skill for Claude Code & Codex. | Python |
+| [**canon**](https://github.com/burhan-mujahid/canon) · [site](https://burhan-mujahid.github.io/canon/) | The papers that built computing, rebuilt so you can run them: Turing, Shannon, Kálmán, Diffie–Hellman and PageRank as readable code and playable pages. | HTML · JS |
+| [**inverse-notebook**](https://github.com/burhan-mujahid/inverse-notebook) | Move the result, see what must change. An interactive notebook for inverse problems, constraint solving and explainable convex optimization. | JavaScript |
+| [**buddy_open_ai_chat_bot**](https://github.com/burhan-mujahid/buddy_open_ai_chat_bot) | A chatbot app built with Flutter on the OpenAI API. | Flutter · Dart |
+
+**Also building Conductor:** guard-railed AI actions across Linear, Slack, Notion and Gmail.
+
+### Tech I work with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,flutter,dart,react,firebase,wordpress,html,css,git,github,vscode&perline=12" alt="Tech stack" />
+</p>
+
+`MCP` · `Claude` · `LangGraph` · `Ollama` · `n8n` · `Make` · `Shopify` · `Amazon` · `Google Ads` · `Slack` · `Notion`
+
+### GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=burhan-mujahid&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+---
+
+<div align="center">
+
+**Something to build, a decision to make, or something not working?**<br/>
+[Book a free 30-minute call](https://calendar.app.google/8BSdL6LsNgXprmGZ6). You leave with a clear plan either way.
+
+</div>
